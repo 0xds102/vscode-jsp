@@ -1,2 +1,2 @@
-### 0.0.3: 28 Oct 2019
-- Project is no longer maintained
+### 0.0.4: 13 Sep 2024
+- Project is being maintained by J0hnMilt0n
