@@ -1,9 +1,8 @@
-### _NOTE: This extension is unmaintained!_
+### _NOTE: This extension is a Extention of unmaintained extension of pthorsson!_
 
 # Java Server Pages (JSP) for Visual Studio Code
 
-JSP language support for Visual Studio Code, ported from TextMate's JSP bundle.
-https://github.com/textmate/java.tmbundle
+JSP language support for Visual Studio Code, ported from TextMate's JSP bundle, Pthorsson.
 
-As stated above, **_this extension is NOT maintained_**. Feel free to fork it and publish it.
-https://github.com/pthorsson/vscode-jsp
+Feel free contribute.
+https://github.com/J0hnMilt0n/vscode-jsp
