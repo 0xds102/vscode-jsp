@@ -2,7 +2,7 @@
     "name": "vscode-jsp-clone",
     "displayName": "Java Server Pages (JSP) Support Extention",
     "description": "JSP language support for Visual Studio Code, ported from TextMate's JSP bundle.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "J0hnMilt0n",
     "repository": {
         "type": "git",
