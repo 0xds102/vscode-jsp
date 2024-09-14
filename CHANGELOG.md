@@ -1,2 +1,2 @@
-### 0.0.4: 13 Sep 2024
-- Project is being maintained by J0hnMilt0n
+### 0.0.5: 14 Sep 2024
+- Added icons for file extensions
